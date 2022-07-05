@@ -1,3 +1,6 @@
 plaintext
-contennt appended
-Content to add is here
+<<<<<<< HEAD
+contennt appendeed is added here
+=======
+>>>>>>> branch03
+
